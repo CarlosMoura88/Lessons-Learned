@@ -9,7 +9,7 @@ body {
   position: fixed;
   text-align: center;
   top: 0px;
-  background-color: black;
+  background-color: #8A9399;
   width: 100%;
   left: 0px;
   color: white;
@@ -32,7 +32,7 @@ body {
   padding: 10px;
   color: white;
   margin-left: 47%;
-  background-color: black;
+  background-color: #8A9399;
 }
 
 nav ul li{
@@ -65,7 +65,7 @@ aside{
 
 #rodape{
   width: 100%;
-  background-color: black;
+  background-color: #8A9399;
   color: white;
   text-align: right;
   clear: both;
